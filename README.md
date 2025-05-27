@@ -2,7 +2,7 @@
 
 This is a beginner-friendly Python project that creates a voice-to-voice AI chatbot with advanced capabilities using LangChain and OpenAI:
 
-- Converts user speech to text using Whisper ASR
+- Converts user speech to text using Speech Recognition
 - Uses OpenAI GPT for chatbot responses with conversation memory
 - Performs sentiment analysis on user input
 - Can search the web automatically when needed
