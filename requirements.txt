@@ -1,0 +1,16 @@
+# Voice AI (Sarvam + Plivo) dependencies
+
+# Core
+openai>=1.40.0
+requests>=2.31.0
+
+# VAD (for telephony audio segmentation)
+webrtcvad>=2.0.10
+
+# Config
+python-dotenv>=1.0.0
+pymongo>=4.8.0
+
+# Telephony server (FastAPI)
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
