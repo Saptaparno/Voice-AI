@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "plivo": {
-      "command": "/Users/saptaparnoroysen/.nvm/versions/node/v24.0.1/bin/npx",
-      "args": ["-y", "mcp-remote", "--transport", "http", "https://plivo.com/docs/mcp"]
-    }
-  }
-}
